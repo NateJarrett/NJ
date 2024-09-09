@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+            <h1>
+                Nathanial Jarrett
+            </h1>   
+        </title>
+    </head>
+    <h1>
+        Nate Jarrett
+    </h1>
+        <sub>
+        Cybersecurity or Game Designer
+        </sub>
+    <body>
+        <h3>
+            Introduction
+        </h3>
+        <p>
+            I just started learning how to code with python last semester and I am learning how to use C this semester. With that said I have never learned how websites worked and wanted to learn more about it. I have always liked coding and was watching a lot of Youtubers that used coding. I thought it was really interesting and wanted to learn more about it. Thats why I chose Comp. Sci. as my major. I also like snowboarding and videogames.
+        </p>
+        <h3>
+            Skills
+        </h3>
+        <h4>Beginner</h4>
+        <ul>
+        <li>Python - I am a beginner in python and learned how to code last semester</li>
+        </ul>
+        <h4>Unexperienced</h4>
+        <ul>
+        <li>C - I am starting to learning it this semester</li>
+        <li>html - I just started</li>
+        </ul>
+        
+        <h3>
+            Projects
+        </h3>
+        <h4>
+            Project 1
+        </h4>
+        <p>
+        In this project we used pythons turtle to make pictures using shapes.<br />
+        Here is some of the code for project 1 and the outcome of it:
+        </p>
+        <img src="C:\Users\natha\OneDrive\Pictures\Screenshots\Screenshot 2024-09-09 151836.png" alt="code 1"
+            hight="300"
+            width="200"
+        />
+        <img src="C:\Users\natha\OneDrive\Pictures\Screenshots\Screenshot 2024-09-09 151929.png" alt="code 1"
+            hight="300"
+            width="200"
+        />
+
+        <h4>
+            Project 2
+        </h4>
+        <p>
+            In this project we go a list of amimo acids on a different file and created a new file with all that info about the acid and found out if it was protien or not and asked the user the name it wanted and gave the info to them.<br />
+            Here is some of the code for project 2: 
+        </p>
+        <img src="C:\Users\natha\OneDrive\Pictures\Screenshots\Screenshot 2024-09-09 160803.png" alt="code 1"
+            hight="400"
+            width="300"
+        />
+        <img src="C:\Users\natha\OneDrive\Pictures\Screenshots\Screenshot 2024-09-09 160520.png" alt="code 1"
+            hight="400"
+            width="300"
+        />
+
+        <h3>
+            Education and Experience
+        </h3>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Education</th>
+                    <th>Experience</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Deser Vista Highschool</td>
+                    <td>had no programing experience</td>
+                    <td>Completed</td>
+                </tr>
+
+                <tr>
+                    <td>NAU</td>
+                    <td>Learned how to code second semester<td>
+                    <td>Ongoing</td>
+                </tr>
+
+                <tr>
+                    <td>Work</td>
+                    <td>I have never had a job that uses coding</td>
+                    <td>Ongoing</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>
+            Contact information
+        </h3>
+        <ul>
+            <li>Email: <a href="mailto:nqj3@nau.edu">nqj3@nau.edu</a></li>
+            <li>Discord on the server: @Nate Jarrett</li>
+            <li>Instagram: <a href="https://www.instagram.com/nate_jarrettt/?igsh=MWNmb2gwcTIxd2FjNA%3D%3D&utm_source=qr">@nate_jarrett</a></li>
+            <li>Download my resume: <a href="https://drive.google.com/drive/my-drive?q=after:2024-09-09%20parent:0AM1JH6wvlxrXUk9PVA">Nate Jarrett</a></li>
+        </ul>
+        
+    </body>
+</html>
